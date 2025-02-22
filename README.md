@@ -6,3 +6,5 @@ git status
 agrego css
 git -- set - " apstream origin master "
 git hub.com/git push - u origin main
+https://github.com/Joshua9021/Pague-Facebook-.git
+git statu

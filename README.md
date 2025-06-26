@@ -1,19 +1,19 @@
 {
-  "contactos": [
+  "contactos": [jesusromerojavi90@gmail.com
     {
-      "nombre": "Juan Pérez",
-      "telefono": "+34 600 123 456",
-      "direccion": "Calle Mayor, 23, Madrid, España"
+      "nombre": "Fer",
+      "telefono": "2221281904",
+      "direccion": "chikitobello86@gmail.com"
     },
     {
-      "nombre": "María López",
-      "telefono": "+34 600 654 321",
-      "direccion": "Avenida de la Constitución, 45, Barcelona, España"
+      "nombre": "Jesús Romero",
+      "telefono": "2481662070",
+      "direccion": "jesusromerojavi1361@gmail.com"
     },
     {
-      "nombre": "Carlos García",
-      "telefono": "+34 600 987 654",
-      "direccion": "Plaza del Sol, 12, Valencia, España"
+      "nombre": "Fernanda Carmona",
+      "telefono": "2212525956",
+      "direccion": "nanda2015car@gmail.com"
     }
   ]
 }
